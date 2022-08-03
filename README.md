@@ -33,4 +33,4 @@
 > How the APR has been affected all through the years for home owners and non-home owners.
 > The ralationship between the apr value, estimated return and prosper rating
 
-####  No major changes were made to the design of illustrations from the exploratory phase to the expanatpry phase. Minor changes include a change in scale to make it more visually appealing to an audience and more descriptive axis labels and titles for clarity.
+####  No major changes were made to the design of illustrations from the exploratory phase to the explanatory phase. Minor changes include a change in scale to make it more visually appealing to an audience and more descriptive axis labels and titles for clarity.
